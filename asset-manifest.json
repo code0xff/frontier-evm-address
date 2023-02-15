@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/frontier-evm-address/static/css/main.517c3ab0.css",
-    "main.js": "/frontier-evm-address/static/js/main.0e71e2bd.js",
+    "main.css": "/frontier-evm-address/static/css/main.faa84707.css",
+    "main.js": "/frontier-evm-address/static/js/main.9f5617fc.js",
     "static/js/787.888465dc.chunk.js": "/frontier-evm-address/static/js/787.888465dc.chunk.js",
     "index.html": "/frontier-evm-address/index.html",
-    "main.517c3ab0.css.map": "/frontier-evm-address/static/css/main.517c3ab0.css.map",
-    "main.0e71e2bd.js.map": "/frontier-evm-address/static/js/main.0e71e2bd.js.map",
+    "main.faa84707.css.map": "/frontier-evm-address/static/css/main.faa84707.css.map",
+    "main.9f5617fc.js.map": "/frontier-evm-address/static/js/main.9f5617fc.js.map",
     "787.888465dc.chunk.js.map": "/frontier-evm-address/static/js/787.888465dc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.517c3ab0.css",
-    "static/js/main.0e71e2bd.js"
+    "static/css/main.faa84707.css",
+    "static/js/main.9f5617fc.js"
   ]
 }
